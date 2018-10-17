@@ -1,0 +1,164 @@
+Game Lore
+Setting: 
+•	1770 (Colonial Era)
+•	Grassy plains (Spawn point)
+•	Nysterim (Kingdom of the prestigious Ashian family)
+
+Main and sub character (Friend? and or pet?)
+Main character – Strong | Independent | Has Knowledge | starts of weak while caring to others
+(Description) – Sal is an 18 year old wonderer with hidden abilities that he unlocks later in his adventures. As the character spawns, Sal is equipped with basic clothes and weaponless.
+The game will spawn chests occasionally that give decent loot but are hard to find/get to.
+Main Character has traits that level up when a certain trait is used (ex. Stamina, strength, attacking)
+
+Story main points -
+Villain (Final Boss) – name is villain because like most successful criminals, their names are unknown in this world. 
+Villain has gain the most attention as a criminal in the Nysterim kingdom and has many followers (sub Bosses that lead to final boss) that look up to him so much as to worship him.
+Nysterim kingdom’s Ashian family are not concerned about the Villain because they believe to have the most powerful warrior on their side to defend any Villain uprising.
+What most people don’t know in the Nysterim kingdom is that the powerful warrior is a cold blooded killer hired by the Ashian family to deal with their dirty work.
+Throughout the game, the Ashian family will not be caught with their dirty work but the main character will find out about it after he sees the killer kneeling to the Ashian family. 
+The cold-blooded killer will not kill Villain rather the main character, Sal.
+Sal kills the villains by finding his hideout. This hideout is underground with the entrance made between trees and camouflaged in the bark.
+The villain though, does not go down without a fight. The fight between Sal and the Villain abruptly ends with the villain disappearing after he is fatally wounded. A wound that would surely kill him even if he did escape. The Villain was stabbed with the mortal retriever, a sword made to kill humans with the faintest cut.
+Although Sal killed Villain the Nysterim kingdom believes villain is still out there hiding. The ending scene is the cold-blooded killer passing by Sal in a crowded shopping street with a cloudy setting.
+Game mechanics (basics)
+•	Running (Stamina)
+•	Basic walking (no stamina cost)
+•	Attacking (stamina cost)
+•	Defensive movement (stamina cost)
+•	Experience(upgrading either stats from up ^)
+•	Sneak(bushes/high grass(also cloak))
+•	Spells(mana cost)
+•	Health (no overtime replenish(potions/resting spot))
+
+Game mechanics (Character)
+•	Character health bar (it will be at 50 but can increase based on level)
+•	Character currency (found throughout the game. Can be used to trade and buy at the shop)
+•	Attacking (there will be three attacks)
+o	1.short attack (low stamina cost [no cd]) 
+o	2. Swing attack (  moderate stamina cost [2s cd] ) 
+o	3. Drop down attack (high stamina cost [5s cd] )
+•	Enemy stats
+o	One attack (short attack)
+	Boss will have short and swing attack/drop down attack
+o	Health at a fixed amount
+	The health will be based on character health
+•	If character has for every 5 health the character gains enemies will have 10 less than the character.
+o	Bosses will only have gear that relate to them equipped (ex. Boss un equip Lang sword)
+•	Dialogue (There will not be any choices to make. The game will continue based on story)
+•	Running ( stamina cost will slowly deplete the farther you run)
+Items:
+•	Main-weapon
+o	Basic sword lv1
+o	Broken blade lv2
+o	Avarice blade lv3
+o	Stone sword lv 4
+o	Wisp blade lv5
+o	Stump sword lv6
+o	Height sword Lv8
+o	Lang sword lv9
+o	Experimental sword lv10
+o	Pine sword lv13
+o	Shock sword lv15
+o	Elemental sword lv20
+o	Unlimited sword lv25
+o	Mortal retriever lv30
+•	Sub-weapon (fist/knife/short blunt)
+	Stick lv1
+	Mellow knife lv5
+	Width fist lv8
+	Syringe lv10
+	Elemental fist lv20
+	Limited knife lv25
+	Mortal vindicator lv30
+•	Gear slot (overall)
+	Basic overalls lv1
+	Ripped overalls lv2
+	Stream overalls lv5
+	Dimension overalls lv8
+	Medical scrubs lv10
+	Electric overalls lv15
+	Black overalls lv20
+	Infinite linings lv25
+	Immortals overall lv30
+•	Gear slot (hat)
+	Basic hat lv1
+	Straw hat lv2
+	Feather hat lv5
+	Dimension hat lv8
+	Scrub cap lv10
+	Lightning cap lv15
+	Vanta hat lv20
+	Infinite helmet lv25
+	Immortals crown lv30
+•	Gear slot (shoes)
+	Outcast shoes lv1
+	straw sandals lv2
+	¬¬feather boots lv5
+	Aspect shoes lv8
+	Medical boots lv10
+	Whirlwind boots lv15
+	Dark boots lv20
+	Neveending boots lv25
+	Immortals walk lv30
+•	Gear slot (cape)
+	Basic cape lv1
+	Torn cape lv2
+	Straw cape lv5
+	Length cape lv 8
+	Medical cloak lv10
+	Invisible mantle lv15
+	Camo cloak lv20
+	Infinity cape lv25
+	Immortals resolve lv30
+•	Gear slot (gloves)
+	Basic gloves lv1
+	Cloth gloves lv2
+	Swift gauntlet lv5
+	Reverse gloves lv8
+	Medical gloves lv10
+	Electric gloves lv15
+	Matter gloves lv20
+	Antimatter gloves 25
+	Immortals hand lv30
+
+
+Quests (1-30)
+Run(lv null): Sal is seen running in a forest and seems like he is being chased. Sal does not see he is running straight to a deep drop because of the dense forest and falls to his demise. Sal hits his head and the screen go blank. 
+The beginning (lv1): basic tutorial to learn the game. Sal awakes from the fall with his memories erased.
+Sal’s quest (lv2): main character must travel to outskirts of Nysterim kingdom and talk to gatekeeper. Receive quest to hunt skeleton tribe minions and find chest.
+Nysterim kingdom (lv3): after finishing previous quest, sal gains access to the nysterim kingdom. Sal must talk to elder Sil about the kingdom and if there is anything going around town at the moment.
+The Villain (lv3): Elder Sil tells Sal that a crime organization led by an infamous criminal named Villain, has been ramping up there crime rates and is causing havoc and unrest for the people. Elder Sil directs Sal to Sir Duke about the recent reportings.
+The Boss Un(lv4): Sir Duke tells Sal about a current situation in the peasant farms that has the Villain minions and peasants at arms. Sir Duke recruits Sal as a recruit and sends him off to help deal with the leader of the mischievous gang Boss Un.
+Will-o’-the-wisp (lv5): As Sal begins to return from the successful containment of Boss Un, he notices a strange light coming from a nearby pile of rubble that only he seems to notice. This rubble contains a chest inside with Willow, a small wind spirit that is hovering over gear that is linked to the spirit.
+Arrival (lv6): As Sal returns from the containment with his new gear and friend, his new officer, Sir Duke, congratulates him on his first mission as a recruit. Allows for a rest with all the other recruits.
+Suspicions (lv8); Not much has happened during Sal’s stay in the recruits after the containment of Boss Un. Sal begins to suspect something is up with the recruits and Sir Duke because Sal has not received a mission in a while. Sal seeks Sir Duke about this.
+First turning point in story
+What will become (lv9): Sir Duke tells him that the other recruits have given him complaints about mission completion because Sal can complete them in rapid succession. Sal comes to an agreement with Sir Duke to leave the recruits and work anonymously so that no one raises complaints on him. (Sal will not work for anyone, only people he trusts.)
+Band of thieves (lv10): As Sal goes around the town looking for work he notices a gang of thieves pickpocketing people with no intentions of stopping. As Sal passes these thieves they try to pickpocket him but are rudely awoken to Sal’s sword at his side. The thieves try and make a run for it but Sal quickly cuts off their path and give in to Sal. Sal calls the officers nearby to deal with them.
+Medical examination (lv11): Sal continues to roam around town and notices a wanted poster on the wall. Usually Sal passes these up because none are linked to Villain but there is one poster that directly links to him. The poster is for one of Villain’s right hand men, Dr. Ehnd. Sal takes the poster and starts to ask around town for any sightings and information leading to Dr. Ehnd.
+Medical Appointment (lv12): Sal receives information about Dr. Ehnd‘s precise location from the poster. This information includes his location and a time to attack. Sal realizes that this cannot be trustworthy, coincidental and feels eyes on him. As the day begins to turn towards dawn Sal arrives at the location in which the information includes and arrives at a hospital. The information says that Dr. Ehnd’s laboratory/hideout should be on the side of the hospital in a secret basement under the flight of stairs that lead to the rooftop.
+Medical Emergency (13): Sal knows that the information given to him would be from one of Dr. Ehnd’s minions and prepares for an immediate fight. Sal must defeat Dr. Ehnd and his minions in his hideout.
+Huh?! (14): As Sal begins to leave Dr. Ehnd’s hideout successful, he is greeted by Endo, One of Villain’s men that he sent to retrieve a vial that Dr. Ehnd was creating.
+Awkward Encounters (15): Endo realizes Sal is not one of Dr. Ehnd’s minions and prepares for a fight. (The fight is tricky for Sal because Endo uses electric enchanted gear and weapons to fight). Endo is taken down and Sal receives his equipment (electric gear).
+Rude Awakening (16-17): Sal begins on an adventure with what he knows about Endo and Dr. Ehnd after finding information about hideouts from them. It doesn’t seem like Villain’s minions know much about their own hideouts…
+Notice (18): With all of the information Sal has gathered he stumbles upon an alchemist who is in ties with Villain and his men. This alchemist owns a secret workplace under a current potion shop in the south-eastern part of the kingdom. Sal does not want to cause a scene that might deem him a nuisance to the shop and the people so he returns at midnight to hopefully scope out this alchemist as he leaves/enters his workplace.
+Chemical research (19): Sal must defeat the Alchemist that does not have a name when he sees him in talks with Villain’s minions out in the back of the shop.
+All we never wanted (20): Sal begins to take quests from the quest board that has bounties and other people who post their needs done with help. Sal begins to rack up more of a formidable reputation.
+Travel (21): Sal has never visited the royal palace once since he arrived in the kingdom and makes it his mission to visit and see why the kingdom peasants are in distress.
+Faithful Encounter (22): As Sal enters the front entrance to the royal palace he passes by a rather sketchy appearance that strikes fear into the people and turn heads away from him.
+Villain 2.0 (23): Later in the palace Sal asks one of the guards who that man was and the guard tells him that he is the Royal family’s weapon. This man always gets the dirty work of the Royal family done and never shows emotion to anyone.
+Mercy (24): Sal gets even more suspicious from what the guard told him and decides to follow this man. As Sal follows him around for the day he sees that this man mercilessly kills opposers of the Royal Family and physically forces people to pay for their taxes that is unjustly high.
+Unjust Attack (25): Ever since Sal gathered a reputation with the peasants the Royal Family have been concerned about his appearance and a decent candidate for a speaker of the peasants so they send this cold blooded man to deal with Sal, suffice to say Sal was prepared to fight this man because he had been following and studying his techniques.
+Kings Dead (26): Sal kills the man and acquires his weapons and finds a note on him that is signed by the Royal Family to kill Sal and report to Villain. This surprises Sal because he believed the Royal Family was trying to deal with the Villain but they were working with him.
+Evil happenings (27): A weapon that Sal finds on the killer was the Immortal Retriever, an ancient weapon passed on by the Royal Family to protect against evil doings. What a coincidence that Sal has it against the Royal Family who is secretly in touch with the evil. 
+Mob cleanse (28): The Villain has not met up with the killer for a while and decides to take matters into his own hands to deal with this nuisance named Sal. Sal is ambushed by a mob of Villain most powerful minions but are easily destroyed by the power of the Immortal Retriever, a sword said to eliminate anyone with a single cut.
+Destination Final (29): Villain has had enough and decides to end Sal himself. Sal receives an anonymous letter from a dart that blows past him and lands on the side of a nearby tree trunk that includes a location.
+Mortal resolve (30): Sal must defeat Villain and return to the Kingdom to notify everyone of the Royal Family’s evil doings.
+Awakening (31): Sal believes he has killed Villain even though Villain survived strikes from his Immortal Retriever but Villain gets up when Sal is about to leave and notifies him of who or rather what he is. Also notifies that there are others like him. Experiments that were successful and are under the care and command of the Royal Family. Sal is caught off guard because he begins to have flash backs of memories he does not remember.
+Awakening continued… (32): (FINAL QUEST) Sal, baffled by Villains remarks, decides to end him but he gets away with a smoke screen. As Sal leaves he has more flash backs and becomes uncertain of his past or future. Sal decides to go on an adventure to find where he came from.
+(Final remarks) Villain is not dead, he is an experimental weapon that the Royal Family began creating to serve and remove any opposition so the Royal Family can rule forever and takeover all. Sal is last seen returning to the kingdom with a determination on his face (wants to find out the truth of where he came from).
+Last words: Sal’s plan to expose the Royal Family is on hold following his flash backs.
+ 
+To be continued…
+
+
